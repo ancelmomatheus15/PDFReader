@@ -11,17 +11,10 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="java"/>
-	<classpathentry kind="lib" path="C:/Users/matheus.bonfim/CIEE/PDFReader/jars/fontbox-2.0.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/matheus.bonfim/CIEE/PDFReader/jars/pdfbox-2.0.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/matheus.bonfim/CIEE/PDFReader/jars/pdfbox-tools-2.0.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/matheus.bonfim/CIEE/PDFReader/jars/preflight-2.0.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/matheus.bonfim/CIEE/PDFReader/jars/xmpbox-2.0.9.jar"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/matheus.bonfim/.m2/repository/com/google/zxing/zxingorg/3.3.3/zxingorg-3.3.3.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

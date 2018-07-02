@@ -20,11 +20,4 @@
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>java</name>
-			<type>2</type>
-			<location>C:/Users/matheus.bonfim/Desktop/zxing-zxing-3.3.3/core/src/main/java</location>
-		</link>
-	</linkedResources>
 </projectDescription>
